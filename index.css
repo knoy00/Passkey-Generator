@@ -53,16 +53,3 @@ button{
 button:hover{
     background-color: grey;
 }
-@media(max-width:750px){
-    .title{
-        font-size: 200px;
-    }
-    .button{
-        width: 250px;
-        padding: 25px 30px;
-        transition: all .42s ease;
-    }
-    #password{
-        font-size: 50px;
-    }
-}
