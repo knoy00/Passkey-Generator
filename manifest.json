@@ -2,6 +2,13 @@
     "manifest_version": 3,
     "version": "1.0",
     "name": "Password Generator",
+    "icons": [
+        {
+            "src": "./icon.jpeg",
+            "sizes": "736x980",
+            "type": "image/jpeg"
+        }
+    ]
     "action": {
         "default_popup": "index.html",
         "default_icon": "icon.jpeg"
